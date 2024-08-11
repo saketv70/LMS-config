@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to LMS employees related docker APIs "
+  contactDetails:
+    name: "Kartikey Gupta - Developer"
+    email: "kartikey.gupta@ukg.com"
+  onCallSupport:
+    - 9120548870

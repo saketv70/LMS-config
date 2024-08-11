@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to UKG LMS"
+  contactDetails:
+    name: "Kartikey Gupta"
+    email: "kartikey.gupta@ukg.com"
+
+  onCallSupport:
+    - 9120548870

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+account:
+  message: "Hey, welcome to LMS by Group-8"
+  contactDetails:
+    name: "Kartikey Gupta"
+    email: "kartikey.gupta@ukg.com"
+
+  onCallSupport:
+    - 9120548870
