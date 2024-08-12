@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+account:
+  message: "Hey, welcome to LMS by Group-8"
+  contactDetails:
+    name: "Saket Verma"
+    email: "saket.verma@ukg.com"
+
+  onCallSupport:
+    - 9596979036
